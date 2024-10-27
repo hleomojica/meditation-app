@@ -1,4 +1,16 @@
-# Welcome to your Expo app 👋
+# Meditation App 🧘‍♂
+
+## Description 📝
+
+This is a simple meditation app that allows users to select a meditation session and listen to the audio. The app is built using React Native and Expo. The app is built using the following technologies:
+
+- React Native
+- Expo
+- NativeWind
+
+I followed the tutorial by freeCodeCamp.org on YouTube to build this app.
+
+## Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
