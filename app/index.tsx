@@ -17,7 +17,7 @@ const App = () => {
         className="flex-1"
       >
         <AppGradient colors={["rgba(0,0,0,0.4)", "rgba(0,0,0,0.8)"]}>
-          <SafeAreaView className="flex-1 mx-5 my-12 justify-between">
+          <SafeAreaView className="flex-1  justify-between">
             <View>
               <Text className="text-white text-center font-bold text-4xl">
                 Simple Meditation
